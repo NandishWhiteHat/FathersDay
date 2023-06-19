@@ -36,6 +36,6 @@ def run_action():
 
   time.sleep(1.5)
   print(f"""
-  I hope you enjoyed your prizes {name}!
-  I hope to see you again next year!
+  I hope you enjoyed your prizes!
+  I hope to see you again!
   """)
